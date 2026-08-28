@@ -15,6 +15,14 @@
             ],
             "versions": [
                 {
+                    "version": "1.0.4",
+                    "date": "2026-08-29",
+                    "size": 1829244,
+                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.0.4.ipa",
+                    "localizedDescription": "Bug fix in Countdown widget",
+                    "minOSVersion": "18.3"
+                },
+                {
                     "version": "1.0.3",
                     "date": "2026-08-26",
                     "size": 1830313,
