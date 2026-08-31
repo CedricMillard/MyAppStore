@@ -15,6 +15,14 @@
             ],
             "versions": [
                 {
+                    "version": "1.1.0",
+                    "date": "2026-08-31",
+                    "size": 2169510,
+                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.1.0.ipa",
+                    "localizedDescription": "Add Bus time table from Ageo station to UD plant in App",
+                    "minOSVersion": "18.0"
+                },
+		{
                     "version": "1.0.5",
                     "date": "2026-08-30",
                     "size": 1829898,
