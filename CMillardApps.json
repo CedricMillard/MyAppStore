@@ -11,7 +11,8 @@
             "iconURL": "https://cedricmillard.github.io/MyAppStore/UDBusIconT.png",
             "tintColor": "#5CA399",
             "screenshots": [
-                "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_MainScreen.png"
+                "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_MainScreen.png",
+				"https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_BusScreen.png"
             ],
             "versions": [
                 {
