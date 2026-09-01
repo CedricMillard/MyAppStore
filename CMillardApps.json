@@ -15,6 +15,14 @@
             ],
             "versions": [
                 {
+                    "version": "1.2.0",
+                    "date": "2026-09-01",
+                    "size": 2176444,
+                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.2.0.ipa",
+                    "localizedDescription": "Add Countdown for Bus towards UD Plant with a smart change based on time",
+                    "minOSVersion": "18.0"
+                },
+                {
                     "version": "1.1.0",
                     "date": "2026-08-31",
                     "size": 2169510,
