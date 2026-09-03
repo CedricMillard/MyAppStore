@@ -15,6 +15,14 @@
             ],
             "versions": [
                 {
+                    "version": "1.3.0",
+                    "date": "2026-09-03",
+                    "size": 2181042,
+                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.3.0.ipa",
+                    "localizedDescription": "Add support for train towards Kagohara",
+                    "minOSVersion": "18.0"
+                },
+                {
                     "version": "1.2.0",
                     "date": "2026-09-01",
                     "size": 2176444,
