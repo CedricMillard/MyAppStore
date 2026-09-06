@@ -16,6 +16,14 @@
             ],
             "versions": [
                 {
+                    "version": "1.4.1",
+                    "date": "2026-09-06",
+                    "size": 2192079,
+                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.4.1.ipa",
+                    "localizedDescription": "Minor bug fixes",
+                    "minOSVersion": "18.0"
+                },
+                {
                     "version": "1.4.0",
                     "date": "2026-09-05",
                     "size": 2192079,
