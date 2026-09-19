@@ -75,7 +75,7 @@
             "appPermissions": {
                 "entitlements": [
                     "com.apple.security.application-groups"
-                ],
+                ]
             }
         }
     ]
