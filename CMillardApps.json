@@ -12,33 +12,23 @@
             "tintColor": "#5CA399",
             "screenshots": [
                 "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_MainScreen.png",
-				"https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_BusScreen.jpg",
-                "https://cedricmillard.github.io/MyAppStore/UDBusTimeTableMainWidget.jpeg",
-                "https://cedricmillard.github.io/MyAppStore/UDBusTimeTableLockScreenWidgets.jpeg"
+				"https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_BusScreen.jpg"
             ],
             "versions": [
+                {
+                    "version": "1.6.0",
+                    "date": "2026-09-19",
+                    "size":  2229822,
+                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.6.0.ipa",
+                    "localizedDescription": "Add Map of Bus Stop",
+                    "minOSVersion": "18.0"
+                },
                 {
                     "version": "1.5.3",
                     "date": "2026-09-16",
                     "size": 2214205,
                     "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.5.3.ipa",
-                    "localizedDescription": "Minor translation fixes",
-                    "minOSVersion": "18.0"
-                },
-                {
-                    "version": "1.5.2",
-                    "date": "2026-09-15",
-                    "size": 2211707,
-                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.5.2.ipa",
-                    "localizedDescription": "Minor translation fixes",
-                    "minOSVersion": "18.0"
-                },
-                {
-                    "version": "1.5.1",
-                    "date": "2026-09-13",
-                    "size": 2211273,
-                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.5.1.ipa",
-                    "localizedDescription": "Add Bus Direction in main Widget",
+                    "localizedDescription": "Add Bus direction in main Widget",
                     "minOSVersion": "18.0"
                 },
                 {
@@ -46,23 +36,7 @@
                     "date": "2026-09-06",
                     "size": 2193656,
                     "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.4.2.ipa",
-                    "localizedDescription": "Fix bug of the last train",
-                    "minOSVersion": "18.0"
-                },
-                {
-                    "version": "1.4.1",
-                    "date": "2026-09-06",
-                    "size": 2193743,
-                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.4.1.ipa",
-                    "localizedDescription": "Minor bug fixes",
-                    "minOSVersion": "18.0"
-                },
-                {
-                    "version": "1.4.0",
-                    "date": "2026-09-05",
-                    "size": 2192079,
-                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.4.0.ipa",
-                    "localizedDescription": "New countdown widget design + add option to remove train from App",
+                    "localizedDescription": "New countdown widget design + add option to remove train hours in App",
                     "minOSVersion": "18.0"
                 },
                 {
@@ -89,45 +63,13 @@
                     "localizedDescription": "Add Bus time table from Ageo station to UD plant in App",
                     "minOSVersion": "18.0"
                 },
-		{
+                {
                     "version": "1.0.5",
                     "date": "2026-08-30",
                     "size": 1829898,
                     "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.0.5.ipa",
-                    "localizedDescription": "Countdown widget code clean-up",
+                    "localizedDescription": "First stable public release including App, Widget and CountDown Widget",
                     "minOSVersion": "18.0"
-                },
-                {
-                    "version": "1.0.4",
-                    "date": "2026-08-29",
-                    "size": 1829244,
-                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.0.4.ipa",
-                    "localizedDescription": "Bug fix in Countdown widget",
-                    "minOSVersion": "18.3"
-                },
-                {
-                    "version": "1.0.3",
-                    "date": "2026-08-26",
-                    "size": 1830313,
-                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.0.3.ipa",
-                    "localizedDescription": "Bug fix in Countdown widget",
-                    "minOSVersion": "12.0"
-                },
-                {
-                    "version": "1.0.2",
-                    "date": "2026-08-24",
-                    "size": 1827775,
-                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.0.2.ipa",
-                    "localizedDescription": "Bug fix",
-                    "minOSVersion": "12.0"
-                },
-                {
-                    "version": "1.0",
-                    "date": "2026-08-23",
-                    "size": 1828400,
-                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable.ipa",
-                    "localizedDescription": "First Public Release including App, Widget and Countdown widget.",
-                    "minOSVersion": "12.0"
                 }
             ],
             "appPermissions": {
