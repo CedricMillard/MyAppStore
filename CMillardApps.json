@@ -16,6 +16,14 @@
             ],
             "versions": [
                 {
+                    "version": "1.7.0",
+                    "date": "2026-09-19",
+                    "size": 2244972,
+                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.7.0.ipa",
+                    "localizedDescription": "Handle user location for smart change and bus direction when opening App",
+                    "minOSVersion": "18.0"
+                },
+                {
                     "version": "1.6.0",
                     "date": "2026-09-19",
                     "size": 2229822,
