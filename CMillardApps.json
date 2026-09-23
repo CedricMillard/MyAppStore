@@ -16,26 +16,10 @@
             ],
             "versions": [
                 {
-                    "version": "1.7.2",
-                    "date": "2026-09-22",
-                    "size": 2246133,
-                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.7.2.ipa",
-                    "localizedDescription": "Minor bug fix",
-                    "minOSVersion": "18.0"
-                },
-                {
-                    "version": "1.7.1",
-                    "date": "2026-09-21",
-                    "size": 2245035,
-                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.7.1.ipa",
-                    "localizedDescription": "Minor bug fix",
-                    "minOSVersion": "18.0"
-                },
-                {
-                    "version": "1.7.0",
-                    "date": "2026-09-19",
-                    "size": 2244972,
-                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.7.0.ipa",
+                    "version": "1.7.3",
+                    "date": "2026-09-23",
+                    "size": 2246119,
+                    "downloadURL": "https://cedricmillard.github.io/MyAppStore/UDBusTimeTable_v1.7.3.ipa",
                     "localizedDescription": "Handle user location for smart change and bus direction when opening App",
                     "minOSVersion": "18.0"
                 },
