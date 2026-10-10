@@ -1,7 +1,9 @@
 {
    "Updated": "2026-10-04",
    "BusToStation": [
-    {"departureTime":"08:50", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"00:50", "duration":10, "isActiveRedDays":false},
+      
+      {"departureTime":"08:50", "duration":10, "isActiveRedDays":true},
     
     {"departureTime":"09:50", "duration":10, "isActiveRedDays":true},
     {"departureTime":"09:15", "duration":10, "isActiveRedDays":true},
