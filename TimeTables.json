@@ -3,7 +3,7 @@
    "BusToStation": [
     {"departureTime":"08:50", "duration":10, "isActiveRedDays":true},
     
-    {"departureTime":"09:50", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"09:00", "duration":10, "isActiveRedDays":true},
     {"departureTime":"09:15", "duration":10, "isActiveRedDays":true},
     {"departureTime":"09:30", "duration":10, "isActiveRedDays":true},
     {"departureTime":"09:50", "duration":10, "isActiveRedDays":true},
