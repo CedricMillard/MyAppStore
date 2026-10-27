@@ -1,0 +1,320 @@
+{
+   "Updated": "2026-10-12",
+   "BusToStation": [
+    {"departureTime":"08:50", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"09:00", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"09:15", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"09:30", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"09:50", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"10:20", "duration":10, "isActiveRedDays":false},
+    {"departureTime":"10:50", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"11:20", "duration":10, "isActiveRedDays":false},
+    {"departureTime":"11:50", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"12:20", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"12:50", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"13:20", "duration":10, "isActiveRedDays":false},
+    {"departureTime":"13:50", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"14:20", "duration":10, "isActiveRedDays":false},
+    {"departureTime":"14:50", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"15:20", "duration":10, "isActiveRedDays":false},
+    {"departureTime":"15:50", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"16:20", "duration":10, "isActiveRedDays":false},
+    {"departureTime":"16:50", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"17:05", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"17:25", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"17:40", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"17:47", "duration":14, "isActiveRedDays":true},
+    {"departureTime":"17:55", "duration":14, "isActiveRedDays":true},
+    
+    {"departureTime":"18:03", "duration":14, "isActiveRedDays":true},
+    {"departureTime":"18:10", "duration":14, "isActiveRedDays":true},
+    {"departureTime":"18:17", "duration":14, "isActiveRedDays":true},
+    {"departureTime":"18:25", "duration":12, "isActiveRedDays":true},
+    {"departureTime":"18:33", "duration":12, "isActiveRedDays":true},
+    {"departureTime":"18:40", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"18:47", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"18:55", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"19:03", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"19:10", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"19:20", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"19:30", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"19:40", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"19:50", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"20:00", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"20:15", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"20:30", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"20:45", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"21:00", "duration":10, "isActiveRedDays":true}],
+   
+   "BusToPlant": [
+    {"departureTime":"06:50", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"07:00", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"07:10", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"07:20", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"07:25", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"07:33", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"07:41", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"07:50", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"07:57", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"08:04", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"08:12", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"08:20", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"08:27", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"08:34", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"08:43", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"08:52", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"09:05", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"09:15", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"09:30", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"09:45", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"10:00", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"10:30", "duration":10, "isActiveRedDays":false},
+    
+    {"departureTime":"11:00", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"11:30", "duration":10, "isActiveRedDays":false},
+    
+    {"departureTime":"12:00", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"12:30", "duration":10, "isActiveRedDays":true},
+    
+    {"departureTime":"13:00", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"13:30", "duration":10, "isActiveRedDays":false},
+    
+    {"departureTime":"14:00", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"14:30", "duration":10, "isActiveRedDays":false},
+    
+    {"departureTime":"15:00", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"15:30", "duration":10, "isActiveRedDays":false},
+    
+    {"departureTime":"16:00", "duration":10, "isActiveRedDays":true},
+    {"departureTime":"16:30", "duration":10, "isActiveRedDays":false},
+    
+    {"departureTime":"17:00", "duration":10, "isActiveRedDays":true}],
+   
+   "TrainToOomiya": [
+    {"departureTime":"08:55","isShonan":false},
+    
+    {"departureTime":"09:08","isShonan":false},
+    {"departureTime":"09:15","isShonan":true},
+    {"departureTime":"09:24","isShonan":false},
+    {"departureTime":"09:34","isShonan":false},
+    {"departureTime":"09:47","isShonan":true},
+    {"departureTime":"09:57","isShonan":false},
+
+    {"departureTime":"10:03","isShonan":false},
+    {"departureTime":"10:20","isShonan":true},
+    {"departureTime":"10:26","isShonan":false},
+    {"departureTime":"10:39","isShonan":false},
+    {"departureTime":"10:48","isShonan":true},
+
+    {"departureTime":"11:03","isShonan":false},
+    {"departureTime":"11:19","isShonan":true},
+    {"departureTime":"11:23","isShonan":false},
+    {"departureTime":"11:40","isShonan":false},
+    {"departureTime":"11:48","isShonan":true},
+
+    {"departureTime":"12:03","isShonan":false},
+    {"departureTime":"12:19","isShonan":true},
+    {"departureTime":"12:24","isShonan":false},
+    {"departureTime":"12:42","isShonan":false},
+    {"departureTime":"12:48","isShonan":true},
+   
+    {"departureTime":"13:03","isShonan":false},
+    {"departureTime":"13:19","isShonan":true},
+    {"departureTime":"13:23","isShonan":false},
+    {"departureTime":"13:42","isShonan":false},
+    {"departureTime":"13:48","isShonan":true},
+
+    {"departureTime":"14:04","isShonan":false},
+    {"departureTime":"14:19","isShonan":true},
+    {"departureTime":"14:23","isShonan":false},
+    {"departureTime":"14:41","isShonan":false},
+    {"departureTime":"14:47","isShonan":true},
+
+    {"departureTime":"15:05","isShonan":false},
+    {"departureTime":"15:19","isShonan":true},
+    {"departureTime":"15:23","isShonan":false},
+    {"departureTime":"15:40","isShonan":false},
+    {"departureTime":"15:48","isShonan":true},
+
+    {"departureTime":"16:04","isShonan":false},
+    {"departureTime":"16:19","isShonan":true},
+    {"departureTime":"16:23","isShonan":false},
+    {"departureTime":"16:33","isShonan":false},
+    {"departureTime":"16:43","isShonan":false},
+    {"departureTime":"16:50","isShonan":true},
+    {"departureTime":"16:57","isShonan":false},
+
+    {"departureTime":"17:07","isShonan":false},
+    {"departureTime":"17:21","isShonan":true},
+    {"departureTime":"17:25","isShonan":false},
+    {"departureTime":"17:42","isShonan":false},
+    {"departureTime":"17:48","isShonan":true},
+    {"departureTime":"17:57","isShonan":false},
+
+    {"departureTime":"18:11","isShonan":false},
+    {"departureTime":"18:24","isShonan":true},
+    {"departureTime":"18:32","isShonan":false},
+    {"departureTime":"18:39","isShonan":false},
+    {"departureTime":"18:47","isShonan":false},
+    {"departureTime":"18:57","isShonan":false},
+    
+    {"departureTime":"19:02","isShonan":true},
+    {"departureTime":"19:16","isShonan":false},
+    {"departureTime":"19:26","isShonan":true},
+    {"departureTime":"19:34","isShonan":false},
+    {"departureTime":"19:54","isShonan":true},
+    {"departureTime":"19:58","isShonan":false},
+   
+    {"departureTime":"20:18","isShonan":false},
+    {"departureTime":"20:27","isShonan":true},
+    {"departureTime":"20:35","isShonan":false},
+    {"departureTime":"20:42","isShonan":false},
+    {"departureTime":"20:59","isShonan":false},
+
+    {"departureTime":"21:14","isShonan":true},
+    {"departureTime":"21:18","isShonan":false},
+    {"departureTime":"21:26","isShonan":false},
+    {"departureTime":"21:40","isShonan":false},
+    {"departureTime":"21:46","isShonan":false},
+    
+    {"departureTime":"22:01","isShonan":true},
+    {"departureTime":"22:06","isShonan":false},
+    {"departureTime":"22:15","isShonan":true},
+    {"departureTime":"22:30","isShonan":false},
+    {"departureTime":"22:41","isShonan":false},
+    {"departureTime":"22:56","isShonan":false},
+    
+    {"departureTime":"23:13","isShonan":false},
+    {"departureTime":"23:22","isShonan":false},
+    {"departureTime":"23:40","isShonan":false}],
+        
+    "TrainToKagohara": [
+     {"departureTime":"08:53","isShonan":false},
+     
+     {"departureTime":"09:08","isShonan":true},
+     {"departureTime":"09:11","isShonan":false},
+     {"departureTime":"09:21","isShonan":false},
+     {"departureTime":"09:26","isShonan":false},
+     {"departureTime":"09:36","isShonan":false},
+     {"departureTime":"09:50","isShonan":false},
+     
+     {"departureTime":"10:00","isShonan":true},
+     {"departureTime":"10:06","isShonan":false},
+     {"departureTime":"10:19","isShonan":false},
+     {"departureTime":"10:36","isShonan":false},
+     {"departureTime":"10:53","isShonan":true},
+     {"departureTime":"10:55","isShonan":false},
+     
+     {"departureTime":"11:06","isShonan":false},
+     {"departureTime":"11:21","isShonan":false},
+     {"departureTime":"11:29","isShonan":false},
+     {"departureTime":"11:45","isShonan":false},
+     {"departureTime":"11:59","isShonan":true},
+     
+     {"departureTime":"12:05","isShonan":false},
+     {"departureTime":"12:21","isShonan":false},
+     {"departureTime":"12:29","isShonan":false},
+     {"departureTime":"12:47","isShonan":false},
+     {"departureTime":"12:58","isShonan":true},
+     
+     {"departureTime":"13:05","isShonan":false},
+     {"departureTime":"13:21","isShonan":false},
+     {"departureTime":"13:28","isShonan":false},
+     {"departureTime":"13:43","isShonan":false},
+     {"departureTime":"13:58","isShonan":true},
+     
+     {"departureTime":"14:05","isShonan":false},
+     {"departureTime":"14:21","isShonan":false},
+     {"departureTime":"14:29","isShonan":false},
+     {"departureTime":"14:43","isShonan":false},
+     {"departureTime":"14:58","isShonan":true},
+     
+     {"departureTime":"15:06","isShonan":false},
+     {"departureTime":"15:21","isShonan":false},
+     {"departureTime":"15:29","isShonan":false},
+     {"departureTime":"15:43","isShonan":false},
+     {"departureTime":"15:58","isShonan":true},
+     
+     {"departureTime":"16:05","isShonan":false},
+     {"departureTime":"16:19","isShonan":false},
+     {"departureTime":"16:29","isShonan":false},
+     {"departureTime":"16:43","isShonan":false},
+     {"departureTime":"16:58","isShonan":true},
+     
+     {"departureTime":"17:02","isShonan":false},
+     {"departureTime":"17:07","isShonan":false},
+     {"departureTime":"17:20","isShonan":false},
+     {"departureTime":"17:30","isShonan":false},
+     {"departureTime":"17:41","isShonan":false},
+     {"departureTime":"17:51","isShonan":false},
+     
+     {"departureTime":"18:05","isShonan":true},
+     {"departureTime":"18:07","isShonan":false},
+     {"departureTime":"18:11","isShonan":false},
+     {"departureTime":"18:21","isShonan":false},
+     {"departureTime":"18:32","isShonan":false},
+     {"departureTime":"18:41","isShonan":false},
+     {"departureTime":"18:48","isShonan":false},
+     {"departureTime":"18:59","isShonan":false},
+     
+     {"departureTime":"19:04","isShonan":true},
+     {"departureTime":"19:08","isShonan":false},
+     {"departureTime":"19:18","isShonan":true},
+     {"departureTime":"19:20","isShonan":false},
+     {"departureTime":"19:34","isShonan":false},
+     {"departureTime":"19:38","isShonan":false},
+     {"departureTime":"19:47","isShonan":false},
+     {"departureTime":"19:52","isShonan":false},
+     {"departureTime":"19:58","isShonan":false},
+     
+     {"departureTime":"20:03","isShonan":true},
+     {"departureTime":"20:08","isShonan":false},
+     {"departureTime":"20:16","isShonan":true},
+     {"departureTime":"20:18","isShonan":false},
+     {"departureTime":"20:24","isShonan":false},
+     {"departureTime":"20:33","isShonan":true},
+     {"departureTime":"20:37","isShonan":false},
+     {"departureTime":"20:41","isShonan":false},
+     {"departureTime":"20:51","isShonan":false},
+     {"departureTime":"20:59","isShonan":false},
+     
+     {"departureTime":"21:04","isShonan":false},
+     {"departureTime":"21:09","isShonan":false},
+     {"departureTime":"21:20","isShonan":false},
+     {"departureTime":"21:35","isShonan":false},
+     {"departureTime":"21:39","isShonan":false},
+     {"departureTime":"21:45","isShonan":false},
+     {"departureTime":"21:52","isShonan":false},
+     
+     {"departureTime":"22:01","isShonan":false},
+     {"departureTime":"22:20","isShonan":false},
+     {"departureTime":"22:26","isShonan":false},
+     {"departureTime":"22:39","isShonan":false},
+     {"departureTime":"22:43","isShonan":false},
+     {"departureTime":"22:53","isShonan":false},
+     
+     {"departureTime":"23:10","isShonan":false},
+     {"departureTime":"23:15","isShonan":false},
+     {"departureTime":"23:29","isShonan":false},
+     {"departureTime":"23:43","isShonan":false},
+     {"departureTime":"23:59","isShonan":false},
+     
+     {"departureTime":"24:16","isShonan":false},
+     {"departureTime":"24:23","isShonan":false}]    
+}
